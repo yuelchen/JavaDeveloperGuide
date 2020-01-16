@@ -1,0 +1,8 @@
+Stack is empty...
+There are 1 objects in Stack; top object description is 'A Bone Circular of size M that weights approximately 2.23!'
+There are 2 objects in Stack; top object description is 'A White Rectangular of size S that weights approximately 2.31!'
+There are 3 objects in Stack; top object description is 'A Green Oval of size L that weights approximately 4.51!'
+There are 2 objects in Stack; top object description is 'A White Rectangular of size S that weights approximately 2.31!'
+There are 1 objects in Stack; top object description is 'A Bone Circular of size M that weights approximately 2.23!'
+Stack is empty...
+EmptyStackException reached, the stack is empty and has no plates

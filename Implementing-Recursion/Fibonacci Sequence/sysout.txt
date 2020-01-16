@@ -1,0 +1,3 @@
+Ending result for fib(45): 1134903170, took 4863358 ms
+Ending result for fibCached(45): 1134903170, took 4837478 ms
+fibCached(45) beat fib(45) by 25880 ms

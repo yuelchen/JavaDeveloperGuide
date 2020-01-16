@@ -1,0 +1,36 @@
+public class MyStackMain {
+	public static void main(String[] args) {
+		MyStack<Plate> stackOfPlates = new MyStack<Plate>();
+		stackOfPlates.printInfo();
+		
+		Plate c1 = new Plate("Bone", "Circular", 'M', 2.23);
+		Plate r1 = new Plate("White", "Rectangular", 'S', 2.31);
+		Plate o1 = new Plate("Green", "Oval", 'L', 4.51);
+		
+		stackOfPlates.push(c1);
+		stackOfPlates.printInfo();
+		
+		stackOfPlates.push(r1);
+		stackOfPlates.printInfo();
+		
+		stackOfPlates.push(o1);
+		stackOfPlates.printInfo();
+		
+		try {
+			stackOfPlates.pop();
+			stackOfPlates.printInfo();
+			
+			stackOfPlates.pop();
+			stackOfPlates.printInfo();
+			
+			stackOfPlates.pop();
+			stackOfPlates.printInfo();
+			
+			stackOfPlates.pop();
+		}
+		catch(Exception e) {
+			System.out.println(e.getMessage());
+		}
+		
+	}
+}

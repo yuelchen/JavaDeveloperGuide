@@ -1,0 +1,16 @@
+Stack is empty...
+There are 1 objects in Stack; first object description is 'Mom is 43 year old' and last is 'Mom is 43 year old'
+There are 2 objects in Stack; first object description is 'Mom is 43 year old' and last is 'Dad is 45 year old'
+There are 4 objects in Stack; first object description is 'Mom is 43 year old' and last is 'Son is 14 year old'
+First person 'Mom is 43 year old has been removed from the line
+There are 3 objects in Stack; first object description is 'Dad is 45 year old' and last is 'Son is 14 year old'
+There are 4 objects in Stack; first object description is 'Dad is 45 year old' and last is 'Daughter is 20 year old'
+First person 'Dad is 45 year old has been removed from the line
+There are 3 objects in Stack; first object description is 'Daughter is 12 year old' and last is 'Daughter is 20 year old'
+First person 'Daughter is 12 year old has been removed from the line
+There are 2 objects in Stack; first object description is 'Son is 14 year old' and last is 'Daughter is 20 year old'
+First person 'Son is 14 year old has been removed from the line
+There are 1 objects in Stack; first object description is 'Daughter is 20 year old' and last is 'Daughter is 20 year old'
+Last person Daughter is 20 year old has been removed from the line
+Stack is empty...
+EmptyQueueException reached, there are no object in queue
