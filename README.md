@@ -7,4 +7,6 @@ An IDE - Integrated Development Enviornment - is a comprehensive software applic
 
 ### Favorites
 * [IntelliJ](https://www.jetbrains.com/idea/download/#section=mac) (_Note: Select your respective OS_)
+   > [Guide to using the IntelliJ Interface](https://www.jetbrains.com/help/idea/guided-tour-around-the-user-interface.html)
 * [Eclipse](https://www.eclipse.org/downloads/packages/release/kepler/sr1/eclipse-ide-java-developers)
+   > [Eclipse Interface Guidelines](https://wiki.eclipse.org/User_Interface_Guidelines)
